@@ -22,7 +22,7 @@ Instale buyment com yarn
 ## Demonstração
 
 <p>
-<img src="./pictures_view/welcome.png" />
+<img width="100" src="./pictures_view/welcome.png" />
 </p>
 <p>
 <img src="./pictures_view/selectDay.png" />
