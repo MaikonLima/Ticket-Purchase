@@ -22,14 +22,5 @@ Instale buyment com yarn
 ## Demonstração
 
 <p>
-<img width="200" src="./pictures_view/welcome.png" /> <img width="200" src="./pictures_view/selectDay.png" />
-</p>
-<p>
-<img width="200" src="./pictures_view/selectDay.png" />
-</p>
-<p>
-<img width="200" src="./pictures_view/seat.png" />
-</p>
-<p>
-<img width="200" src="./pictures_view/payment.png" />
+<img width="200" src="./pictures_view/welcome.png" /> <img width="200" src="./pictures_view/selectDay.png" /> <img width="200" src="./pictures_view/seat.png" /> <img width="200" src="./pictures_view/payment.png" />
 </p>
